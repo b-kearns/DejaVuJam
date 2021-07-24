@@ -1,0 +1,11 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
+#
+
+!.gitignore
+# Change this to the name of the Unity project
+InitialDrift/*
+!**/[Aa]ssets/
+!**/[Pp]rojectSettings/
+!**/[Pp]ackages/
